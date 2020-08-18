@@ -53,19 +53,19 @@ Here i use 3 kind of models to train which are simple yet powerful for classific
 
 ## Model Performance
 **LogisticRegression** 
-Best Score :  0.8262964670750719
-Best Params :  {'clf__solver': 'saga', 'clf__penalty': 'none', 'clf__max_iter': 100}
-Accuracy Score on Test Data :  0.8240035826242723
+- Best Score :  0.8262964670750719
+- Best Params :  {'clf__solver': 'saga', 'clf__penalty': 'none', 'clf__max_iter': 100}
+- Accuracy Score on Test Data :  0.8240035826242723
 
 **RandomForest** 
-Best Score :  0.8462305325265606
-Best Params :  {'clf__n_estimators': 100, 'clf__max_depth': 20}
-Accuracy Score on Test Data :  0.8454993282579489
+- Best Score :  0.8462305325265606
+- Best Params :  {'clf__n_estimators': 100, 'clf__max_depth': 20}
+- Accuracy Score on Test Data :  0.8454993282579489
 
 **LinearSVC** 
-Best Score :  0.8236083324707263
-Best Params :  {'clf__penalty': 'l2', 'clf__max_iter': 1000}
-Accuracy Score on Test Data :  0.8204209583519928
+- Best Score :  0.8236083324707263
+- Best Params :  {'clf__penalty': 'l2', 'clf__max_iter': 1000}
+- Accuracy Score on Test Data :  0.8204209583519928
 
 ## Model Evaluation
 Model chosen for this is Random Forest, it achieved better accuracy than the other 2 algorithms.
