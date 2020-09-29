@@ -83,8 +83,7 @@ The accuracy score decreased but if we look closely on the confusion matrix, the
 ![alt text](https://github.com/theis19/Bank-Deposit-Classification/blob/master/images/feat_imp2.png "Feature Importance")
 
 This is more useful and we could tell our Marketing team to target :
-- Customers that had deposit their money in the previous campaign
-- Contacting customers through other means besides calling
 - Customer with high balance
 - Younger customers
 - Customer with no loans, especially housing loan
+- Do more campaigns in March
